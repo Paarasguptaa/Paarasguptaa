@@ -36,10 +36,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Paarasguptaa&show_icons=true&theme=radical" alt="Paarasguptaa stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Paarasguptaa&show_icons=true&theme=radical" alt="Paarasguptaa stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paarasguptaa&theme=radical" alt="Paarasguptaa streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paarasguptaa&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Paarasguptaa&layout=compact&theme=radical" alt="Top Languages" />
 </p>
